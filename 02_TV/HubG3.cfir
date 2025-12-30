@@ -1,0 +1,60 @@
+{
+  "RemoteInfo": {
+    "DeviceFamily": "Camera",
+    "Manufacturer": "Camera",
+    "DeviceModel": "",
+    "RemoteModel": "",
+    "RemoteID": "HubG3",
+    "Description": ""
+  },
+  "RemoteFunctions": [
+    {
+      "ID": "1",
+      "HeaderData": "",
+      "RepeaterData": "012E002C01580054012E00FF00FF00FF00FF0060",
+      "MinRepeats": 3,
+      "FreqDivider": 108,
+      "CCF": "0000 006C 0000 0009 002C 002A 0054 0050 002C 042E 002C 002A 0054 0050 002C 042E 002C 002A 0054 0050 002C 042E"
+    },
+    {
+      "ID": "2",
+      "HeaderData": "",
+      "RepeaterData": "012C002A012D00FF00FF00FF00FF00CE",
+      "MinRepeats": 3,
+      "FreqDivider": 108,
+      "CCF": "0000 006C 0000 0006 002A 0028 002B 0498 002A 0028 002B 0498 002A 0028 002B 0498"
+    },
+    {
+      "ID": "3",
+      "HeaderData": "",
+      "RepeaterData": "012C002B015600FF00FF00FF00FF00A7",
+      "MinRepeats": 3,
+      "FreqDivider": 108,
+      "CCF": "0000 006C 0000 0006 002A 0029 0052 0472 002A 0029 0052 0472 002A 0029 0052 0472"
+    },
+    {
+      "ID": "4",
+      "HeaderData": "",
+      "RepeaterData": "012D0029012D0028012D00FF00FF00FF00FF0070",
+      "MinRepeats": 3,
+      "FreqDivider": 108,
+      "CCF": "0000 006C 0000 0009 002B 0027 002B 0026 002B 043E 002B 0027 002B 0026 002B 043E 002B 0027 002B 0026 002B 043E"
+    },
+    {
+      "ID": "5",
+      "HeaderData": "",
+      "RepeaterData": "012E0028017F00FF00FF00FF00FF0071",
+      "MinRepeats": 3,
+      "FreqDivider": 108,
+      "CCF": "0000 006C 0000 0006 002C 0026 0079 043F 002C 0026 0079 043F 002C 0026 0079 043F"
+    },
+    {
+      "ID": "6",
+      "HeaderData": "",
+      "RepeaterData": "012C002B012E0051012E00FF00FF00FF00FF0051",
+      "MinRepeats": 3,
+      "FreqDivider": 108,
+      "CCF": "0000 006C 0000 0009 002A 0029 002C 004D 002C 0420 002A 0029 002C 004D 002C 0420 002A 0029 002C 004D 002C 0420"
+    }
+  ]
+}

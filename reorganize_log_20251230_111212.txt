@@ -1,0 +1,214 @@
+=== BẮT ĐẦU TỔ CHỨC LẠI THỨ MỤC IR ===
+Thời gian: Tue Dec 30 11:12:12 +07 2025
+
+Đang tạo cấu trúc thư mục...
+✓ Đã tạo cấu trúc thư mục
+
+=== Tổ chức file ĐIỀU HÒA ===
+✓ Moved: Toshiba_AC.cfir -> 01_AC/Toshiba.cfir
+✓ Moved: LOC_KK_DAIKIN.cfir -> 01_AC/Daikin_LocKK.cfir
+Di chuyển các file từ thư mục AC...
+  ✓ AC/GENERAL_PK_HEAT.cfir -> 01_AC/GENERAL_LivingRoom_HEAT.cfir
+  ✓ AC/AQUA.cfir -> 01_AC/AQUA.cfir
+  ✓ AC/LG.cfir -> 01_AC/LG.cfir
+  ✓ AC/MITSUBISHI_Vinhome_PK2.cfir -> 01_AC/MITSUBISHI_Vinhome_LivingRoom2.cfir
+  ✓ AC/GENERAL_HEAT.cfir -> 01_AC/GENERAL_HEAT.cfir
+  ✓ AC/Gree.cfir -> 01_AC/Gree.cfir
+  ✓ AC/Mitsubishi_aChinh.cfir -> 01_AC/Mitsubishi_aChinh.cfir
+  ✓ AC/Sanyo.cfir -> 01_AC/Sanyo.cfir
+  ✓ AC/LG_ThaoDien.cfir -> 01_AC/LG_ThaoDien.cfir
+  ✓ AC/Mitsubishi_CanTho.cfir -> 01_AC/Mitsubishi_CanTho.cfir
+  ✓ AC/MITSUBISHI_OPTRAN_BIG.cfir -> 01_AC/MITSUBISHI_OPTRAN_BIG.cfir
+  ✓ AC/Daikin_Vinhome_PK_HEAT.cfir -> 01_AC/Daikin_Vinhome_LivingRoom_HEAT.cfir
+  ✓ AC/GENERAL.cfir -> 01_AC/GENERAL.cfir
+  ✓ AC/Daikin_Vinhome_PK_FAN_MIN.cfir -> 01_AC/Daikin_Vinhome_LivingRoom_FAN_MIN.cfir
+  ✓ AC/Daikin_Vinhome_HEAT.cfir -> 01_AC/Daikin_Vinhome_HEAT.cfir
+  ✓ AC/Heavy 2.cfir -> 01_AC/Heavy 2.cfir
+  ✓ AC/Reetech.cfir -> 01_AC/Reetech.cfir
+  ✓ AC/GENERAL_PK.cfir -> 01_AC/GENERAL_LivingRoom.cfir
+  ✓ AC/Daikin_TreoTuong_tiasang.cfir -> 01_AC/Daikin_Wall_tiasang.cfir
+  ✓ AC/Daikin_TreoTuong.cfir -> 01_AC/Daikin_Wall.cfir
+  ✓ AC/Daikin_Vinhome_PK_VTNN.cfir -> 01_AC/Daikin_Vinhome_LivingRoom_VTNN.cfir
+  ✓ AC/Toshiba.cfir -> 01_AC/Toshiba.cfir
+  ✓ AC/Mitsubishi_ABaoQ6.cfir -> 01_AC/Mitsubishi_ABaoQ6.cfir
+  ✓ AC/Mitsubishi_vincom_chuan.cfir -> 01_AC/Mitsubishi_vincom_chuan.cfir
+  ✓ AC/Daikin_TreoTuong_DaKienTrucQ11.cfir -> 01_AC/Daikin_Wall_DaKienTrucQ11.cfir
+  ✓ AC/MITSUBISHI_Vinhome_PK.cfir -> 01_AC/MITSUBISHI_Vinhome_LivingRoom.cfir
+  ✓ AC/MITSUBISHI_OPTRAN.cfir -> 01_AC/MITSUBISHI_OPTRAN.cfir
+  ✓ AC/Panasonic_TreoTuong_DaKienTrucQ11.cfir -> 01_AC/Panasonic_Wall_DaKienTrucQ11.cfir
+  ✓ AC/Casper_TreoTuong.cfir -> 01_AC/Casper_Wall.cfir
+  ✓ AC/Heavy.cfir -> 01_AC/Heavy.cfir
+  ✓ AC/Panasonic.cfir -> 01_AC/Panasonic.cfir
+  ✓ AC/PanasonicSky.cfir -> 01_AC/PanasonicSky.cfir
+  ✓ AC/Daikincenter_dongtenlua.cfir -> 01_AC/Daikincenter_dongtenlua.cfir
+  ✓ AC/Mitsubishi_aptran_vinhdanang_chuan.cfir -> 01_AC/Mitsubishi_aptran_vinhdanang_chuan.cfir
+  ✓ AC/Mitsubishi_TreoTuong.cfir -> 01_AC/Mitsubishi_Wall.cfir
+Di chuyển các file từ thư mục AC Full...
+  ✓ AC Full/AC_Reetech_TreoTuong_2.cfir -> 01_AC/AC_Reetech_TreoTuong_2.cfir
+  ✓ AC Full/fanpana.cfir -> 01_AC/fanpana.cfir
+  ✓ AC Full/AC_Mitsubishi_OpTran_FULL_16-30_low-high.cfir -> 01_AC/AC_Mitsubishi_OpTran_FULL_16-30_low-high.cfir
+  ✓ AC Full/AC_Mitsubishi_OpTran_19-30_lo-me-hi.cfir -> 01_AC/AC_Mitsubishi_OpTran_19-30_lo-me-hi.cfir
+  ✓ AC Full/AC_TRANE_OpTran.cfir -> 01_AC/AC_TRANE_OpTran.cfir
+  ✓ AC Full/AC_Daikin_16-30_low-middle-high.cfir -> 01_AC/AC_Daikin_16-30_low-middle-high.cfir
+  ✓ AC Full/AC_SamSung_OpTran_18-30_low-middle-high.cfir -> 01_AC/AC_SamSung_OpTran_18-30_low-middle-high.cfir
+  ✓ AC Full/AC_MitsubishiPK_OpTran_FULL_16-30_low-high.cfir -> 01_AC/AC_MitsubishiPK_OpTran_FULL_16-30_low-high.cfir
+  ✓ AC Full/QuatTranPanasonic.cfir -> 01_AC/QuatTranPanasonic.cfir
+  ✓ AC Full/SamSunggiaDaikin.cfir -> 01_AC/SamSunggiaDaikin.cfir
+  ✓ AC Full/AC_Mitsubishi_16-30_low-middle-high.cfir -> 01_AC/AC_Mitsubishi_16-30_low-middle-high.cfir
+  ✓ AC Full/AC_Sanyo_16-30_low-middle-high.cfir -> 01_AC/AC_Sanyo_16-30_low-middle-high.cfir
+  ✓ AC Full/AC_Toshiba__16-30_low-middle-high.cfir -> 01_AC/AC_Toshiba__16-30_low-middle-high.cfir
+  ✓ AC Full/AC_MitsubishiPK_OpTran_FULL_19-30_low-high.cfir -> 01_AC/AC_MitsubishiPK_OpTran_FULL_19-30_low-high.cfir
+  ✓ AC Full/AC_Reetech_TreoTuong.cfir -> 01_AC/AC_Reetech_TreoTuong.cfir
+  ✓ AC Full/acpana2.cfir -> 01_AC/acpana2.cfir
+  ✓ AC Full/AC_LG_16-30_low-middle-high_cool.cfir -> 01_AC/AC_LG_16-30_low-middle-high_cool.cfir
+  ✓ AC Full/AC_MitsubishiPN_OpTran_19-30_low-middle-high.cfir -> 01_AC/AC_MitsubishiPN_OpTran_19-30_low-middle-high.cfir
+  ✓ AC Full/AC_Daikin_TreoTuong_16-30_low-middle-high.cfir -> 01_AC/AC_Daikin_TreoTuong_16-30_low-middle-high.cfir
+  ✓ AC Full/AC_Daikin_OpTran_16-30_low-middle-high.cfir -> 01_AC/AC_Daikin_OpTran_16-30_low-middle-high.cfir
+  ✓ AC Full/AC_Panasonic_16-30_low-middle-high.cfir -> 01_AC/AC_Panasonic_16-30_low-middle-high.cfir
+  ✓ AC Full/AC_LG_16-30_low-middle-high.cfir -> 01_AC/AC_LG_16-30_low-middle-high.cfir
+  ✓ AC Full/AC_Sharp_TreoTuong.cfir -> 01_AC/AC_Sharp_TreoTuong.cfir
+
+=== Tổ chức file TV ===
+✓ Moved: HubG3_TV.cfir -> 02_TV/HubG3.cfir
+✓ Moved: LG SMART A BAO Q6.cfir -> 02_TV/LG_SmartTV_ABaoQ6.cfir
+✓ Moved: TV_TCL.cfir -> 02_TV/TCL.cfir
+✓ Moved: TV_Toshiba.cfir -> 02_TV/Toshiba.cfir
+✓ Moved: TVPanasonic10822.cfir -> 02_TV/Panasonic_10822.cfir
+✓ Moved: tvpana_vinhome_chuan.cfir -> 02_TV/Panasonic_Vinhome.cfir
+✓ Moved: tvphilips.cfir -> 02_TV/Philips.cfir
+✓ Moved: ss_smarttv_vs_chuan.cfir -> 02_TV/Samsung_SmartTV.cfir
+✓ Moved: ss_smarttv_vs_chuan (2).cfir -> 02_TV/Samsung_SmartTV_v2.cfir
+✓ Moved: lgdvd.cfir -> 02_TV/LG_DVD.cfir
+Di chuyển các file từ thư mục tv...
+  ✓ tv/TV_Coocaa.cfir -> 02_TV/TV_Coocaa.cfir
+  ✓ tv/TV_Samsung.cfir -> 02_TV/TV_Samsung.cfir
+  ✓ tv/samsungaa59-00741a.cfir -> 02_TV/samsungaa59-00741a.cfir
+  ✓ tv/TV_Samsung2.cfir -> 02_TV/TV_Samsung2.cfir
+  ✓ tv/TV_Xiaomi.cfir -> 02_TV/TV_Xiaomi.cfir
+  ✓ tv/samsung.cfir -> 02_TV/samsung.cfir
+  ✓ tv/TV_LG.cfir -> 02_TV/TV_LG.cfir
+  ✓ tv/TV_Sony.cfir -> 02_TV/TV_Sony.cfir
+  ✓ tv/sony.cfir -> 02_TV/sony.cfir
+
+=== Tổ chức file MÁY CHIẾU ===
+✓ Moved: benq_projector.cfir -> 03_Projector/BenQ.cfir
+✓ Moved: Epson_Projector.cfir -> 03_Projector/Epson.cfir
+✓ Moved: SONY_projector.cfir -> 03_Projector/Sony.cfir
+✓ Moved: optoma.cfir -> 03_Projector/Optoma.cfir
+✓ Moved: vivitek_projector.cfir -> 03_Projector/Vivitek.cfir
+✓ Moved: maychieuPanasonic_CThuyDBP.cfir -> 03_Projector/Panasonic_CThuyDBP.cfir
+✓ Moved: maychieuPanasonic_ON_OFF_Nguoc.cfir -> 03_Projector/Panasonic_Reverse.cfir
+
+=== Tổ chức file ÂM THANH ===
+✓ Moved: bluos_audio.cfir -> 04_Audio/Bluos.cfir
+✓ Moved: denon 3808.cfir -> 04_Audio/Denon_3808.cfir
+✓ Moved: marantz.cfir -> 04_Audio/Marantz.cfir
+✓ Moved: onkyo_media.cfir -> 04_Audio/Onkyo.cfir
+✓ Moved: yamaha_davung.cfir -> 04_Audio/Yamaha_DaVung.cfir
+✓ Moved: yamaha_soundbar.cfir -> 04_Audio/Yamaha_Soundbar.cfir
+✓ Moved: loa crown.cfir -> 04_Audio/Crown.cfir
+✓ Moved: loaamtran.cfir -> 04_Audio/AmTran.cfir
+✓ Moved: loaamtranleviton.cfir -> 04_Audio/AmTran_Leviton.cfir
+✓ Moved: vocalist-dk6000s.cfir -> 04_Audio/Vocalist_DK6000S.cfir
+✓ Moved: okara.cfir -> 04_Audio/Okara.cfir
+
+=== Tổ chức file MÀN CHIẾU ===
+✓ Moved: manchieu_Grandview.cfir -> 05_Screen/Grandview.cfir
+
+=== Tổ chức file QUẠT ===
+Di chuyển các file từ thư mục FAN...
+  ✓ FAN/FANPANA.cfir -> 06_Fan/FANPANA.cfir
+  ✓ FAN/FanKDK.cfir -> 06_Fan/FanKDK.cfir
+  ✓ FAN/Fan.cfir -> 06_Fan/Fan.cfir
+  ✓ FAN/Quat Panasonic Ten ID la FanBoss.cfir -> 06_Fan/Quat Panasonic Ten ID la FanBoss.cfir
+  ✓ FAN/Quat Korihome.cfir -> 06_Fan/Quat Korihome.cfir
+  ✓ FAN/Quat Panasonic f-409k.cfir -> 06_Fan/Quat Panasonic f-409k.cfir
+  ✓ FAN/lifan.cfir -> 06_Fan/lifan.cfir
+  ✓ FAN/keye.cfir -> 06_Fan/keye.cfir
+  ✓ FAN/FanSumika.cfir -> 06_Fan/FanSumika.cfir
+  ✓ FAN/FanKAROFI.cfir -> 06_Fan/FanKAROFI.cfir
+  ✓ FAN/Quat Tran Panasonic.cfir -> 06_Fan/Quat Tran Panasonic.cfir
+  ✓ FAN/Deka-Fan-Kitchen-Home.cfir -> 06_Fan/Deka-Fan-Kitchen-Home.cfir
+  ✓ FAN/QuatTranPanasonic.cfir -> 06_Fan/QuatTranPanasonic.cfir
+  ✓ FAN/FanRobot.cfir -> 06_Fan/FanRobot.cfir
+  ✓ FAN/ASIA_TREO_TUONG.cfir -> 06_Fan/Asia_Wall.cfir
+  ✓ FAN/FanDyson.cfir -> 06_Fan/FanDyson.cfir
+  ✓ FAN/FanStadler.cfir -> 06_Fan/FanStadler.cfir
+  ✓ FAN/Fandemo.cfir -> 06_Fan/Fandemo.cfir
+  ✓ FAN/FanAlaska.cfir -> 06_Fan/FanAlaska.cfir
+  ✓ FAN/FanBoss.cfir -> 06_Fan/FanBoss.cfir
+
+=== Tổ chức file LÒ SƯỞI ===
+✓ Moved: losuoi.cfir -> 07_Heater/LoSuoi.cfir
+✓ Moved: LoSuoi_P12312B.cfir -> 07_Heater/LoSuoi_P12312B.cfir
+✓ Moved: Suoisan_uriel.cfir -> 07_Heater/SuoiSan_Uriel.cfir
+
+=== Tổ chức file THIẾT BỊ KHÁC ===
+✓ Moved: BinhNuoc.cfir -> 08_Other/BinhNuoc.cfir
+✓ Moved: DTC_Pngu.cfir -> 08_Other/DTC_Pngu.cfir
+✓ Moved: phunsuongVTNN.cfir -> 08_Other/PhunSuong_VTNN.cfir
+✓ Moved: ledday.cfir -> 08_Other/DenLED.cfir
+✓ Moved: StarNebula.cfir -> 08_Other/StarNebula.cfir
+✓ Moved: imerge.cfir -> 08_Other/iMerge.cfir
+
+=== Tổ chức TV BOX ===
+Di chuyển thư mục TV BOX...
+  ✓ TV BOX/fpt_box_giang.cfir -> 09_TV_Box/fpt_box_giang.cfir
+  ✓ TV BOX/AppleTV.cfir -> 09_TV_Box/AppleTV.cfir
+  ✓ TV BOX/Viethongha.cfir -> 09_TV_Box/Viethongha.cfir
+  ✓ TV BOX/FPTBOXS.cfir -> 09_TV_Box/FPTBOXS.cfir
+  ✓ TV BOX/sony_pk_ADuc.cfir -> 09_TV_Box/sony_pk_ADuc.cfir
+  ✓ TV BOX/NEXTTV_Viettel_ABaoQ6.cfir -> 09_TV_Box/NEXTTV_Viettel_ABaoQ6.cfir
+  ✓ TV BOX/amply_K9.cfir -> 09_TV_Box/amply_K9.cfir
+  ✓ TV BOX/sctv.cfir -> 09_TV_Box/sctv.cfir
+  ✓ TV BOX/Lyngdorf.cfir -> 09_TV_Box/Lyngdorf.cfir
+  ✓ TV BOX/kara.cfir -> 09_TV_Box/kara.cfir
+  ✓ TV BOX/BoseAV35.cfir -> 09_TV_Box/BoseAV35.cfir
+  ✓ TV BOX/vtvcab_old.cfir -> 09_TV_Box/vtvcab_old.cfir
+  ✓ TV BOX/htvc.cfir -> 09_TV_Box/htvc.cfir
+  ✓ TV BOX/nvidia shield.cfir -> 09_TV_Box/nvidia shield.cfir
+  ✓ TV BOX/DuneHD.cfir -> 09_TV_Box/DuneHD.cfir
+  ✓ TV BOX/Himedia Android Box.cfir -> 09_TV_Box/Himedia Android Box.cfir
+  ✓ TV BOX/pearller.cfir -> 09_TV_Box/pearller.cfir
+  ✓ TV BOX/vnptbox-mytv.cfir -> 09_TV_Box/vnptbox-mytv.cfir
+  ✓ TV BOX/vtvcab.cfir -> 09_TV_Box/vtvcab.cfir
+  ✓ TV BOX/kplus_DTC.cfir -> 09_TV_Box/kplus_DTC.cfir
+  ✓ TV BOX/viettelboxtv.cfir -> 09_TV_Box/viettelboxtv.cfir
+  ✓ TV BOX/Mcintosh.cfir -> 09_TV_Box/Mcintosh.cfir
+  ✓ TV BOX/tv_Sony.cfir -> 09_TV_Box/tv_Sony.cfir
+  ✓ TV BOX/htvc-A Quang.cfir -> 09_TV_Box/htvc-A Quang.cfir
+  ✓ TV BOX/fptboxnew.cfir -> 09_TV_Box/fptboxnew.cfir
+  ✓ TV BOX/tvpkADUC_lite.cfir -> 09_TV_Box/tvpkADUC_lite.cfir
+  ✓ TV BOX/McintoshDVD.cfir -> 09_TV_Box/McintoshDVD.cfir
+  ✓ TV BOX/amply_bik.cfir -> 09_TV_Box/amply_bik.cfir
+  ✓ TV BOX/Denon.cfir -> 09_TV_Box/Denon.cfir
+  ✓ TV BOX/Fortech.cfir -> 09_TV_Box/Fortech.cfir
+
+=== Tổ chức PROJECTS ===
+Di chuyển thư mục QuocQ7...
+  ✓ QuocQ7 -> 10_Projects/QuocQ7
+
+=== Tổ chức file LƯU TRỮ ===
+✓ Moved: test.cfir -> 99_Archive/test.cfir
+✓ Moved: IRBlaster_12_000049E7_06-07-2021.cfirrls -> 99_Archive/IRBlaster_12_000049E7_06-07-2021.cfirrls
+✓ Moved: Late 2014 Master.cml -> 99_Archive/Late_2014_Master.cml
+  ✓ IRLearner_v1.6.217 -> 99_Archive/
+  ✓ IRLearner_v1.6.217.zip -> 99_Archive/
+
+=== HOÀN THÀNH ===
+
+Tổng kết:
+- Số file trong 01_AC:       59
+- Số file trong 02_TV:       19
+- Số file trong 03_Projector:        7
+- Số file trong 04_Audio:       11
+- Số file trong 05_Screen:        1
+- Số file trong 06_Fan:       20
+- Số file trong 07_Heater:        3
+- Số file trong 08_Other:        6
+- Số file trong 09_TV_Box:       30
+- Số file trong 99_Archive:       42
+
+Log file được lưu tại: /Users/vutrongnhannghia/Library/CloudStorage/SynologyDrive-Sync/File IR CommandFusion/reorganize_log_20251230_111212.txt
+
+✅ HOÀN TẤT TỔ CHỨC LẠI THƯ MỤC IR!

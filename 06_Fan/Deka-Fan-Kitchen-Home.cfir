@@ -1,0 +1,61 @@
+{
+  "RemoteInfo": {
+    "DeviceFamily": "Fan",
+    "Manufacturer": "Deka",
+    "DeviceModel": "Home",
+    "RemoteModel": "",
+    "RemoteID": "fankitchen",
+    "Description": "Kitchen Fan"
+  },
+  "RemoteFunctions": [
+    {
+      "ID": "FanSpeed1",
+      "HeaderData": "",
+      "RepeaterData": "0134000F0134000F011300300135000F0134000F0113003001130031011200300135000E0113003101120031011300FF003C",
+      "MinRepeats": 3,
+      "FreqDivider": 109
+    },
+    {
+      "ID": "FanSpeed2",
+      "HeaderData": "",
+      "RepeaterData": "0134000F0134000F011300300135000F0134000F0135000E0113003101120030011300300135000F0134000F011300FF003C",
+      "MinRepeats": 3,
+      "FreqDivider": 110
+    },
+    {
+      "ID": "FanSpeed3",
+      "HeaderData": "",
+      "RepeaterData": "0134000E0135000F011300300135000F0134000F01130030011300310112003101130030011300310134000E011300FF003D",
+      "MinRepeats": 3,
+      "FreqDivider": 110
+    },
+    {
+      "ID": "off",
+      "HeaderData": "",
+      "RepeaterData": "0133000F0135000F011200310134000F0135000F011200310113003001130031011200310113003001130031011200FF003D",
+      "MinRepeats": 3,
+      "FreqDivider": 110
+    },
+    {
+      "ID": "1hour",
+      "HeaderData": "",
+      "RepeaterData": "0134000E0135000F011200310135000E0135000F01120030011300300135000F011300300113003001130031011200FF003D",
+      "MinRepeats": 3,
+      "FreqDivider": 110
+    },
+    {
+      "ID": "3hour",
+      "HeaderData": "",
+      "RepeaterData": "0134000F0134000F011300300135000F0134000F0134000E011300310112003101130030011300310134000F011300FF003C",
+      "MinRepeats": 3,
+      "FreqDivider": 110
+    },
+    {
+      "ID": "6hour",
+      "HeaderData": "",
+      "RepeaterData": "0134000F0134000F011300300135000F0134000F011300300135000F01120031011300300113003101120031011300FF003C",
+      "MinRepeats": 3,
+      "FreqDivider": 110
+    }
+  ]
+}
