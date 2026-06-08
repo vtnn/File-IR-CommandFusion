@@ -1,0 +1,29 @@
+{
+    "rules": [
+        {
+            "name": "Bat1",
+            "search_str": "\\xF21\\xF3RRY8CHA\\xF4MM|P02:1\\xF5\\xF5",
+            "action_data": "Hatkhekenh3_ON",
+            "type": "M"
+        },
+        {
+            "name": "Tat1",
+            "search_str": "\\xF21\\xF3RRY8CHA\\xF4MM|P02:0\\xF5\\xF5",
+            "action_data": "Hatkhekenh3_OFF",
+            "type": "M"
+        },
+        {
+            "name": "Bat2",
+            "search_str": "\\xF21\\xF3RRY8CHA\\xF4MM|P01:1\\xF5\\xF5",
+            "action_data": "Hattrankenh4on",
+            "type": "M"
+        },
+        {
+            "name": "Tat2",
+            "search_str": "\\xF21\\xF3RRY8CHA\\xF4MM|P01:0\\xF5\\xF5",
+            "action_data": "Hattrankenh4off",
+            "type": "M"
+        }
+    ],
+    "DLL_version": "v2.1"
+}

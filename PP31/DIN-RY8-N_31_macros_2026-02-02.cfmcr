@@ -1,0 +1,367 @@
+{
+    "CFMacros": [
+        {
+            "name": "Battatca",
+            "actions": [
+                {
+                    "command": "\\xF21\\xF3TRLYSET\\xF4P02:1|P03:1|P04:1|P05:1|P06:1|P07:1\\xF5\\xF5",
+                    "delay": 0,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P02:MEM:HORUS:on\\xF5\\xF5",
+                    "delay": 2000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P02:MEM:HORUS:on\\xF5\\xF5",
+                    "delay": 1000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P02:MEM:DAIKIN:on\\xF5\\xF5",
+                    "delay": 2000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P02:MEM:DAIKIN:on\\xF5\\xF5",
+                    "delay": 2000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P01:MEM:DenonX3700:SAT/CBL\\xF5\\xF5",
+                    "delay": 2000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P01:MEM:DenonX3700:SAT/CBL\\xF5\\xF5",
+                    "delay": 2000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF21\\xF3TRLYSET\\xF4P01:1\\xF5\\xF5",
+                    "delay": 15000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                }
+            ]
+        },
+        {
+            "name": "Tattatca",
+            "actions": [
+                {
+                    "command": "\\xF21\\xF3TRLYSET\\xF4P01:0|P03:0|P04:1|P05:1|P06:0|P07:0\\xF5\\xF5",
+                    "delay": 0,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P01:MEM:DenonX3700:game\\xF5\\xF5",
+                    "delay": 2000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P01:MEM:DenonX3700:pwr\\xF5\\xF5",
+                    "delay": 5000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P02:MEM:DAIKIN:off\\xF5\\xF5",
+                    "delay": 2000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P02:MEM:DAIKIN:off\\xF5\\xF5",
+                    "delay": 2000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P02:MEM:HORUS:off\\xF5\\xF5",
+                    "delay": 1500,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P02:MEM:HORUS:off\\xF5\\xF5",
+                    "delay": 2000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF21\\xF3TRLYSET\\xF4P02:0\\xF5\\xF5",
+                    "delay": 4000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF21\\xF3TRLYSET\\xF4P04:0|P05:0|P06:0|P07:0\\xF5\\xF5",
+                    "delay": 300000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                }
+            ]
+        },
+        {
+            "name": "Hatkhekenh3_OFF",
+            "actions": [
+                {
+                    "command": "\\xF21\\xF3TRLYSET\\xF4P04:0|P05:0\\xF5\\xF5",
+                    "delay": 0,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                }
+            ]
+        },
+        {
+            "name": "Hatkhekenh3_ON",
+            "actions": [
+                {
+                    "command": "\\xF21\\xF3TRLYSET\\xF4P04:1|P05:1\\xF5\\xF5",
+                    "delay": 0,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                }
+            ]
+        },
+        {
+            "name": "Hattrankenh4on",
+            "actions": [
+                {
+                    "command": "\\xF21\\xF3TRLYSET\\xF4P06:1|P07:1\\xF5\\xF5",
+                    "delay": 0,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                }
+            ]
+        },
+        {
+            "name": "Hattrankenh4off",
+            "actions": [
+                {
+                    "command": "\\xF21\\xF3TRLYSET\\xF4P06:0|P07:0\\xF5\\xF5",
+                    "delay": 0,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                }
+            ]
+        },
+        {
+            "name": "AppleTV",
+            "actions": [
+                {
+                    "command": "\\xF21\\xF3TRLYSET\\xF4P03:0|P06:0|P07:0\\xF5\\xF5",
+                    "delay": 0,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P01:MEM:NKP:BGM\\xF5\\xF5",
+                    "delay": 1000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P01:MEM:NKP:BGM\\xF5\\xF5",
+                    "delay": 1000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P01:MEM:R9Plus:return\\xF5\\xF5",
+                    "delay": 1000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P01:MEM:R9Plus:return\\xF5\\xF5",
+                    "delay": 1000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P01:MEM:R9Plus:return\\xF5\\xF5",
+                    "delay": 1000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P01:MEM:DenonX3700:bluray\\xF5\\xF5",
+                    "delay": 1000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P01:MEM:DenonX3700:bluray\\xF5\\xF5",
+                    "delay": 1000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P01:MEM:NKP:BGM\\xF5\\xF5",
+                    "delay": 1000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P01:MEM:NKP:BGM\\xF5\\xF5",
+                    "delay": 2000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                }
+            ]
+        },
+        {
+            "name": "query",
+            "actions": [
+                {
+                    "command": "\\xF21\\xF3QCFXACS\\xF4\\xF5\\xF5",
+                    "delay": 500,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF21\\xF3QRLYSTA\\xF4\\xF5\\xF5",
+                    "delay": 500,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                }
+            ]
+        },
+        {
+            "name": "Xemphim",
+            "actions": [
+                {
+                    "command": "\\xF21\\xF3TRLYSET\\xF4P03:0|P06:0|P07:0\\xF5\\xF5",
+                    "delay": 0,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P01:MEM:NKP:BGM\\xF5\\xF5",
+                    "delay": 1000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P01:MEM:NKP:BGM\\xF5\\xF5",
+                    "delay": 1000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P01:MEM:AppleTV:Menu\\xF5\\xF5",
+                    "delay": 1000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P01:MEM:AppleTV:Menu\\xF5\\xF5",
+                    "delay": 1000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P01:MEM:DenonX3700:mediaplay\\xF5\\xF5",
+                    "delay": 1000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P01:MEM:DenonX3700:mediaplay\\xF5\\xF5",
+                    "delay": 1000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P01:MEM:NKP:BGM\\xF5\\xF5",
+                    "delay": 2000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P01:MEM:NKP:BGM\\xF5\\xF5",
+                    "delay": 1000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                }
+            ]
+        },
+        {
+            "name": "Karaoke",
+            "actions": [
+                {
+                    "command": "\\xF21\\xF3TRLYSET\\xF4P03:1|P04:1|P05:1|P06:0|P07:0\\xF5\\xF5",
+                    "delay": 0,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P01:MEM:NKP:VOD\\xF5\\xF5",
+                    "delay": 1000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P01:MEM:NKP:VOD\\xF5\\xF5",
+                    "delay": 1000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P01:MEM:AppleTV:Menu\\xF5\\xF5",
+                    "delay": 1000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P01:MEM:AppleTV:Menu\\xF5\\xF5",
+                    "delay": 1000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P01:MEM:R9Plus:return\\xF5\\xF5",
+                    "delay": 1000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P01:MEM:R9Plus:return\\xF5\\xF5",
+                    "delay": 1000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P01:MEM:DenonX3700:SAT/CBL\\xF5\\xF5",
+                    "delay": 1000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P01:MEM:DenonX3700:SAT/CBL\\xF5\\xF5",
+                    "delay": 1000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                },
+                {
+                    "command": "\\xF2\\x11\\xF3TIRBSND\\xF4P01:MEM:NKP:VOD\\xF5\\xF5",
+                    "delay": 1000,
+                    "condition": "",
+                    "conditionBeforeDelay": "0"
+                }
+            ]
+        }
+    ],
+    "DLL_version": "v2.2"
+}
